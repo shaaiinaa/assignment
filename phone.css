@@ -1,0 +1,13 @@
+@media (max-width:500px) or (max-height:730px){
+    .body{
+        min-width: 335px;
+        width:89vw;    
+        padding: 20px 40px;
+        border-radius: 20px;
+   
+    }
+    .heading{
+        font-size: 24px;
+    }
+
+}
